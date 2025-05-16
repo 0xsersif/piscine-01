@@ -48,7 +48,7 @@ During this intensive one-month piscine at Zone01 Oujda, I gained:
 Feel free to explore the code and solutions. Each directory typically contains the exercise specifications and my implementation.
 
 ```
-⚠️ Note for Zone01 students: If you're currently a student at Zone01, 
+⚠️ Note for Zone01 Poolers: If you're currently a Pooler at Zone01, 
 please be aware that directly copying these solutions may violate 
 academic integrity policies. Use this repository as a reference only 
 after attempting the exercises yourself.
